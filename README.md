@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cart Service
 
 This is the Cart service
@@ -21,3 +22,6 @@ Run the service
 ```
 micro run .
 ```
+=======
+# car
+>>>>>>> 813faf13630f8b4e950a951e5ea23e12244a34a3
